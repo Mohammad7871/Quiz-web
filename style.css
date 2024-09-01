@@ -1,0 +1,8 @@
+div{
+    display: inline-flex;
+}
+button{
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+}
